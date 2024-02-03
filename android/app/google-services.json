@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9048376289",
+    "project_id": "englishstudyapp-31934",
+    "storage_bucket": "englishstudyapp-31934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9048376289:android:ae5fa74f8d9b23f98f48a0",
+        "android_client_info": {
+          "package_name": "com.example.englishstudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdZhpYMC0lcRSFwNjR_hHUKPDYSEur7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

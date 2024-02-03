@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "19057763474",
+    "firebase_url": "https://studyenglish-c7104-default-rtdb.firebaseio.com",
+    "project_id": "studyenglish-c7104",
+    "storage_bucket": "studyenglish-c7104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19057763474:android:931a7932cdeef8935b324b",
+        "android_client_info": {
+          "package_name": "com.example.englishstudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4kXKX5vIdnfOEJKISP6bGGTDY-NkCyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
